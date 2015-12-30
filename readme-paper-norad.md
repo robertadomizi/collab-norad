@@ -3,6 +3,10 @@
 	- check that the noradrenaline dose differences are not due to how methods of weight adjustment
 		we don't have the raw doses in the spreadsheet just the weight adjusted doses so if weight adjustment was done using IBW vs actual BW in Italy we would not know @discuss
 
+Roby: 
+ how should I edit your files without confusing all stuff?!!
+ About Norad/kg: I don't think countries work differently: we decided with M to take just the mcg/kg/min that is the most accurate. BW on pumps is often estimated and not measured or actual, everywhere!
+
 # next.todo:
 	
 	- exp
